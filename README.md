@@ -31,12 +31,3 @@
 - ☕ Gosto de aprender com projetos reais e desafios de código
 
 
----
-
-### 📊 Estatísticas GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carolsavio&show_icons=true&theme=dracula" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolsavio&layout=compact&theme=dracula" alt="Linguagens mais usadas" height="150"/>
-</p>
-
-
