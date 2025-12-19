@@ -7,27 +7,27 @@
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+<h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=js,html,css,wordpress,py,anaconda,mysql,postgres,git,bash,linux,docker,vscode" />
+  </a>
 </p>
-<p align="center">
-  <!-- Ferramentas e Sistemas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
-</p>
+
 
 ---
 
-### 🌱 Sobre mim
-- 🔭 Atualmente estudando **desenvolvimento de aplicações com Python**
-- 🌎 Interessada em **desenvolvimento web e automação**
-- 🎯 Foco atual: **melhorar lógica de programação e boas práticas**
-- ☕ Gosto de aprender com projetos reais e desafios de código
+<h2 align="center">🌱 Sobre mim</h2>
+<p align="center">
+  - 🔭 Atualmente estudando: desenvolvimento de aplicações com Python e Dados<br>
+  - 🌎 Interessada em: desenvolvimento web, Dados e automação<br>
+  - 🎯 Foco atual: melhorar lógica de programação e boas práticas<br>
+  - ☕ Gosto de aprender com projetos reais e desafios de código
+</p>
 
-
+---
+<h2 align="center"> 📊 Estatísticas GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolsavio&layout=compact&theme=transparent" alt="Linguagens mais usadas" height="150"/>
+</p>
