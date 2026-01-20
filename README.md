@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=js,html,css,wordpress,py,anaconda,mysql,postgres,git,bash,linux,docker,vscode" />
+   <img src="https://skillicons.dev/icons?i=java,spring,angular,aws,js,html,css,wordpress,py,anaconda,mysql,postgres,git,bash,linux,docker,vscode" />
   </a>
 </p>
 
@@ -20,8 +20,8 @@
 
 <h2 align="center">🌱 Sobre mim</h2>
 <p align="center">
-  - 🔭 Atualmente estudando: desenvolvimento de aplicações com Python e Dados<br>
-  - 🌎 Interessada em: desenvolvimento web, Dados e automação<br>
+  - 🔭 Atualmente estudando: desenvolvimento de aplicações com Python e Java<br>
+  - 🌎 Interessada em: Back-end, Dados e automação<br>
   - 🎯 Foco atual: melhorar lógica de programação e boas práticas<br>
   - ☕ Gosto de aprender com projetos reais e desafios de código
 </p>
