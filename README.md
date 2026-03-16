@@ -24,7 +24,7 @@ Developer | Security Researcher | Automation Builder
 
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=aws,js,html,css,py,mysql,postgres,git,bash,linux,docker,vscode" />
+   <img src="https://skillicons.dev/icons?i=aws,js,html,css,py,mysql,postgres,git,powershell,bash,linux,debian,redhat,docker,vscode" />
   </a>
 </p>
 
