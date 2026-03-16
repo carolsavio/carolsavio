@@ -20,7 +20,9 @@ Developer | Security Researcher | Automation Builder
 - Security labs & CTFs
 ```
 
-<h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=555555&size=24&center=true&vCenter=true&width=700&lines=Tecnologies+and+tools...;" />
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -30,7 +32,10 @@ Developer | Security Researcher | Automation Builder
 
 
 ---
-<h2 align="center"> 📊 Estatísticas GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolsavio&layout=compact&theme=transparent" alt="Linguagens mais usadas" height="150"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=555555&size=24&center=true&vCenter=true&width=700&lines=root@moira:~/metrics" />
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carolsavio&theme=dracula" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carolsavio&theme=dracula" />
 </p>
